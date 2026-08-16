@@ -1,0 +1,4 @@
+interface:
+  display_name: "secoes-academicas"
+  short_description: "Assistência acadêmica para mestrado no Brasil"
+  default_prompt: "Ajude-me com esta tarefa de mestrado."
