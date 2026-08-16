@@ -2,7 +2,11 @@
 
 Catálogo de skills para apoiar uma pesquisadora de mestrado no Brasil. Todas privilegiam português brasileiro acadêmico, autoria da pesquisadora, fontes verificáveis e respeito ao manual do PPG.
 
-## Instalação
+## Uso no Abacus.AI
+
+Cada arquivo em `abacus-ai/` é um pacote de importação independente e contém `SKILL.md` diretamente na raiz, como o Abacus.AI exige. No Abacus.AI Agent, use **Customize & Add Skills** > **New Skill** e envie apenas o `.zip` da skill desejada. Ative de 5 a 10 skills por vez para reduzir sobreposição de instruções.
+
+## Uso local no Codex
 
 Clone este repositório e copie as pastas das skills desejadas para `~/.codex/skills/`. Reinicie o Codex após a cópia.
 
